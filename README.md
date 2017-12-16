@@ -14,3 +14,4 @@ See if it's possible to automaticly recognize an object in a picture, translate 
 
 ## 16/12
 * Google Cloud Platform 12 maanden trial gestart.
+* Eerste image geprocessed via de [Quickstart](https://cloud.google.com/vision/docs/quickstart)
