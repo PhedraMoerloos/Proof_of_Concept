@@ -12,9 +12,7 @@ See if it's possible to automaticly recognize an object in a picture, translate 
 
 
 
-## 16/12
+### 16/12
 * Google Cloud Platform 12 maanden trial gestart.
 * Eerste image geprocessed via de [Quickstart](https://cloud.google.com/vision/docs/quickstart)
-* API key gegenereerd voor gebruik op web.
-** [Use google vision api](https://code.tutsplus.com/tutorials/how-to-use-the-google-cloud-vision-api-in-android-apps--cms-29009)
-** [Credentials](https://console.cloud.google.com/apis/credentials?project=double-genius-189210)
+* API key gegenereerd voor gebruik op web - [Use google vision api](https://code.tutsplus.com/tutorials/how-to-use-the-google-cloud-vision-api-in-android-apps--cms-29009), - [Credentials](https://console.cloud.google.com/apis/credentials?project=double-genius-189210)
