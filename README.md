@@ -9,3 +9,8 @@ See if it's possible to automaticly recognize an object in a picture, translate 
 * Bekijken hoe te gebruiken via de Google [documentatie](https://cloud.google.com/vision/docs/quickstart)
 * Cloud Platform Console nodig. Kan free trial doen maar moet credit card gegevens invullen. Moet nog vragen aan ouders.
 * Aantal stappen ook nodig vooraleer de api kunnen gebruiken. Zou normaal gezien niet lang mogen duren (5-10min)
+
+
+
+## 16/12
+* Google Cloud Platform 12 maanden trial gestart.
