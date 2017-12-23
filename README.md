@@ -19,4 +19,9 @@ See if it's possible to automaticly recognize an object in a picture, translate 
 
 
 ### 21/12
-* Bekijken integratie API voor web - [credentials](https://support.google.com/cloud/answer/6158857?hl=en), [video tutorial](https://www.youtube.com/watch?v=nMY0qDg16y4)
+* Bekijken integratie API voor web - [credentials](https://support.google.com/cloud/answer/6158857?hl=en), [video tutorial](https://www.youtube.com/watch?v=nMY0qDg16y4) - [Speech API](https://www.youtube.com/watch?v=wzp9dfVpeeg)
+
+
+### 23/12
+* Bekijken hoe API gebruiken überhaupt - [Google demo Java](https://www.youtube.com/watch?v=tVIIgcIqoPw), [Google demo Python](https://www.youtube.com/watch?v=IVjZMIWhz3Y)
+* Bekijken tutorials Google API's - [Tutorial overzicht](https://cloud.google.com/vision/docs/tutorials), [Tutorial label detection](https://console.cloud.google.com/getting-started)
