@@ -24,4 +24,18 @@ See if it's possible to automaticly recognize an object in a picture, translate 
 
 ### 23/12
 * Bekijken hoe API gebruiken überhaupt - [Google demo Java](https://www.youtube.com/watch?v=tVIIgcIqoPw), [Google demo Python](https://www.youtube.com/watch?v=IVjZMIWhz3Y)
-* Bekijken tutorials Google API's - [Tutorial overzicht](https://cloud.google.com/vision/docs/tutorials), [Tutorial label detection](https://console.cloud.google.com/getting-started)
+* Bekijken tutorials Google API's - [Tutorial overzicht](https://cloud.google.com/vision/docs/tutorials), [Tutorial label detection](https://console.cloud.google.com/getting-started), [label detection](https://cloud.google.com/vision/docs/detecting-labels)
+* Veranderen van onderwerp naar:
+
+
+
+# Proof of concept
+Zien of het mogelijk is om een scanner een afbeelding te laten omzetten in tekst die op de afbeelding lijkt.
+
+### 23/12
+* Opzoeken of er een manier is om een scanner geprinte tekst te laten herkennen.
+* OCR ontdekt, optical character recognition. Herkent patronen in handgeschreven teksten en kan ze vertalen naar "geprinte tekst" zodat de computer het kan verstaan. Wordt o.a. gebruikt bij het ordenen van mail. OCR herkent de patronen van donker en licht, waaruit de letters bestaan. We kunnen een foto (meestal jpg) dan omzetten naar een doc of txt file. De geschreven tekst wordt vergeleken met allerlei bestaande fonts om eraan uit te geraken om welke letters het gaat. Er wordt wel nog altijd aangeraden de teksten na te lezen aangezien het niet error proof is. Sheet feed scanners worden vaker gebruikt dan flatbed scanners omdat er meerdere pagina's na elkaar kunnen worden verwerkt. Bij flatbed scanners moet het verwerken per pagina gebeuren. Er zijn ook programma's die de tekst kunnen nakijken en opvallende schrijffouten kunnen verbeteren. Soms kijken de programma's zelfs naar de woorden nabij het woord dat wordt gecheckt. Zoals "de blaffende bond" wordt verbeterd naar "de blaffende hond" omdat er "de" en "blaffende" bij het woord "hond" stonden. - [info OCR hp printers](http://h71036.www7.hp.com/hho/cache/608037-0-0-39-121.html), [uitleg OCR](http://www.explainthatstuff.com/how-ocr-works.html)
+* Zaken die kunnen helpen bij het beter lezen van letters (en eventueel later van een image): extra contrast tussen de lichte en donkere stukken.
+* Sommige programma's veranderen gescande afbeeldingen meteen naar graphics dus het zou kunnen dat enkel twijfelachtige afbeeldingen zoals koffievlekken kunnen omgezet worden naar tekst. Zullen we moeten testen.
+* Beslissen test runs. Gewone image scannen, image met enkel een duidelijk object en witte achtergrond scannen, een zwart-wit image scannen
+
