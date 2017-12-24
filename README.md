@@ -39,3 +39,11 @@ Zien of het mogelijk is om een scanner een afbeelding te laten omzetten in tekst
 * Sommige programma's veranderen gescande afbeeldingen meteen naar graphics dus het zou kunnen dat enkel twijfelachtige afbeeldingen zoals koffievlekken kunnen omgezet worden naar tekst. Zullen we moeten testen.
 * Beslissen test runs. Gewone image scannen, image met enkel een duidelijk object en witte achtergrond scannen, een zwart-wit image scannen
 
+
+
+### 24/12
+* Inspiratie opdoen voor "kunstwerken" met tekst, die we hopen te creëren.
+* Kunst met typografie: [interview Yves Velter](https://vimeo.com/86238888), [Blanck, beeld en typografie](https://www.youtube.com/watch?v=--h0FXVoOVU&feature=youtu.be), [Einaudi, typografie bij muziek](https://www.youtube.com/watch?v=k9NM-yK1C2I), [Pietrella, foto's omzetten in tekst via stamp](https://www.youtube.com/watch?time_continue=16&v=pd-edgSDVo4)
+
+
+
