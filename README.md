@@ -47,3 +47,12 @@ Zien of het mogelijk is om een scanner een afbeelding te laten omzetten in tekst
 
 
 
+### 26/12
+* Bekijken welke programma's er zijn om OCR mee te doen. Eventueel een ouder programma / minder advanced om de beeldherkenning eigenschap nog niet in het programma te hebben zitten.
+* [Microsoft OCR programma](https://www.microsoft.com/nl-be/store/p/a9t9-free-ocr-software/9nblgggz5nsn#) - Test failed, kon geen tekst van afbeelding maken, [app OCR](https://www.microsoft.com/nl-be/store/p/photo-to-text-ocr/9nblggh6hrzh), [app fast OCR](https://www.microsoft.com/nl-be/store/p/fast-ocr/9nblggh52svj#), [Online OCR](https://www.onlineocr.net/) - Foto appel proberen inladen, "Kan tekst niet lezen". 
+
+* Proberen met vagere foto's, waar tekst in verwerk zit?
+* Voorbereiden 3 testen: tekening zonder schaduwen, simpele lijnen, met stempel woord tekening, met stempel reeks woorden simpele vorm maken, morgen checken: herkent hij hier iets uit?
+
+
+
