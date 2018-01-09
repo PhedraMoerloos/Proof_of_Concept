@@ -55,4 +55,19 @@ Zien of het mogelijk is om een scanner een afbeelding te laten omzetten in tekst
 * Voorbereiden 3 testen: tekening zonder schaduwen, simpele lijnen, met stempel woord tekening, met stempel reeks woorden simpele vorm maken, morgen checken: herkent hij hier iets uit?
 
 
+### 8/01
+* Maken tekeningen + met stempels waar tekst in zit
+* Tekeningen inscannen
+
+
+### 9/01
+* Test: Kan hij hier iets uit maken?
+* Test 1: gewone tekening kan hij niks uit maken
+* Test 2: Tekening met stempels waar de tekst schuin of over elkaar staat. Herkent geen tekst doordat er geen duidelijke letters in voorkomen.
+* Test 3: Ster vorm gemaakt uit stempels met tekst: herkent een aantal woorden maar niet veel.. komen ook niet op de juiste plaats
+
+* Programma's zijn misschien te geavanceerd geworden om dit met OCR te kunnen doen? Herkennen enkel cleane tekst en zien non-tekst dus niet meer als mogelijke tekst..
+
+
+
 
