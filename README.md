@@ -69,5 +69,11 @@ Zien of het mogelijk is om een scanner een afbeelding te laten omzetten in tekst
 * Programma's zijn misschien te geavanceerd geworden om dit met OCR te kunnen doen? Herkennen enkel cleane tekst en zien non-tekst dus niet meer als mogelijke tekst..
 
 
+### 10/01
+* Na opzoeken "convert photo into text art" ASCII converters tegengekomen, kan wel eens exact zijn wat we nodig hebben..
+* Test 1: simpele foto appel in ascii converter Glassgiant gestoken, begint er op te trekken maar beeld wordt vervormd.
+* Testen 2: Reeks ingewikkeldere foto's in Glassgiant ascii converter gestoken: je herkent er wel vaag iets in maar is niet zo duidelijk. Werkt wel al veel beter dan de OCR software. Bij de simpele tekening zijn de lijnen te dun, en dus het verschil tussen licht en donker te klein, om veel te herkennen en te weergeven.
+* Test 3: uiteindelijk website/ascii converter "Many Tools" gevonden: reeks testen met makkelijke en moeilijke images gedaan
+* Effect via de tool van ManyTools is perfect! Bewezen dat het mogelijk is om een afbeelding om te zetten in tekst, met de afbeelding nog steeds herkenbaar. 
 
 
