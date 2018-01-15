@@ -30,7 +30,7 @@ See if it's possible to automaticly recognize an object in a picture, translate 
 
 
 # Proof of concept
-Zien of het mogelijk is om een scanner een afbeelding te laten omzetten in tekst die op de afbeelding lijkt.
+Zien of het mogelijk is om een afbeelding om te zetten in tekst die op de afbeelding lijkt.
 
 ### 23/12
 * Opzoeken of er een manier is om een scanner geprinte tekst te laten herkennen.
@@ -75,5 +75,9 @@ Zien of het mogelijk is om een scanner een afbeelding te laten omzetten in tekst
 * Testen 2: Reeks ingewikkeldere foto's in Glassgiant ascii converter gestoken: je herkent er wel vaag iets in maar is niet zo duidelijk. Werkt wel al veel beter dan de OCR software. Bij de simpele tekening zijn de lijnen te dun, en dus het verschil tussen licht en donker te klein, om veel te herkennen en te weergeven.
 * Test 3: uiteindelijk website/ascii converter "Many Tools" gevonden: reeks testen met makkelijke en moeilijke images gedaan
 * Effect via de tool van ManyTools is perfect! Bewezen dat het mogelijk is om een afbeelding om te zetten in tekst, met de afbeelding nog steeds herkenbaar. 
+
+
+### 14/01
+* Maken presentatie voor Proof of Concept voor te stellen
 
 
